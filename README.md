@@ -2,7 +2,7 @@
 
 Here are some of my stats:  
   
-![stats](https://github-readme-stats.vercel.app/api?username=ceilingfans&theme=dark)  
+![stats](https://github-readme-stats.vercel.app/api?username=ceilingfans&theme=darcula)  
   
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceilingfans&layout=compact&theme=dark)
 
