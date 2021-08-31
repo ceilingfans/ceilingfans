@@ -9,4 +9,3 @@ Here are some of my stats:
 [Github](https://github.com/ceilingfans "lol youre already here") | [Personal site](https://awned.tech/ "🚧 Under construction 🚧")
 
 - 🌱 I’m currently learning Python, Rust, and Javascript
-- 😄 Pronouns: [He/Him](https://pronoun.is/he "My pronouns")
