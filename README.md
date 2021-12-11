@@ -8,4 +8,4 @@ Here are some of my stats:
 
 [Github](https://github.com/ceilingfans "lol youre already here") | [Personal site](https://awned.tech/ "🚧 Under construction 🚧")
 
-- 🌱 I’m currently learning Python, Rust, and Javascript
+- 🌱 I’m currently learning C++, JavaScript and Python
