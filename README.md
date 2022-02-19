@@ -12,3 +12,7 @@
     <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ceilingfans&show_icons=true&locale=en&layout=compact&theme=radical"/></td>
   </tr>   
 </table>
+
+### 📲 Contact me
+<a href="https://discord.com/users/624904212043661312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ceilingfans" height="30" width="40" /></a>
+**awned#1212**
